@@ -7,7 +7,7 @@ To build and run the application [open the repository in GitHub](https://github.
    * Once Visual Studio opens the solution file, click the Start button or press F5 to run the application.
 
 2. Select "Download ZIP" to download the application as a .zip file and extract the contents to the desired directory.  
-   * Open that directory in your file explorer, double-click on the LTPhotoAlbum.sln file.  
+   * Open that directory in your file explorer, open the LTPhotoAlbum-master subfolder, and double-click on the LTPhotoAlbum.sln file.  
    * Once Visual Studio opens the solution file, click the Start button or press F5 to run the application.
 
 Thank you for downloading LTPhotoAlbum. Please email any comments or questions to tyler.bleau@gmail.com.
