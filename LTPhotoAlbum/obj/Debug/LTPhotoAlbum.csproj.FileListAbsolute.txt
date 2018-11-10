@@ -1,0 +1,15 @@
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.exe.config
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.exe
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.pdb
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.exe
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.pdb
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler\Desktop\C# Courses\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.exe.config
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.exe
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.pdb
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.exe
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\LTPhotoAlbum.pdb
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler\Desktop\CCC answers\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\LTPhotoAlbum\obj\Debug\LTPhotoAlbum.csprojResolveAssemblyReference.cache
